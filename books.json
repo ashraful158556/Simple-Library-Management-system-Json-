@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Heavan",
+        "author": "Rabbi",
+        "isbn": "5454",
+        "year": "2020",
+        "price": 54.0,
+        "quantity": 565,
+        "lent": 0
+    },
+    {
+        "title": "Kashmeri",
+        "author": "Heaven",
+        "isbn": "68215",
+        "year": "2022",
+        "price": 150.0,
+        "quantity": 2,
+        "lent": 0
+    }
+]
